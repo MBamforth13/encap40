@@ -1,0 +1,14 @@
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\bin\Debug\net6.0\dev8_encap.exe
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\bin\Debug\net6.0\dev8_encap.deps.json
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\bin\Debug\net6.0\dev8_encap.runtimeconfig.json
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\bin\Debug\net6.0\dev8_encap.dll
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\bin\Debug\net6.0\dev8_encap.pdb
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.AssemblyInfoInputs.cache
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.AssemblyInfo.cs
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.csproj.CoreCompileInputs.cache
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.dll
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\refint\dev8_encap.dll
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.pdb
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\dev8_encap.genruntimeconfig.cache
+C:\Users\bbamforth\OneDrive - River East Transcona School Division\Documents\Visual Studio 2022\dev8_encap\obj\Debug\net6.0\ref\dev8_encap.dll
